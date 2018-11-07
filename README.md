@@ -1,6 +1,6 @@
 # ![Screenshot](favicon.ico) MedDesign
 
-YOUR FAVORITE PLACE PRINT & DESIGN
+YOUR FAVORITE PLACE FOR [PRINT & DESIGN](https://kprokkie.github.io/med-design/)
 
 Want to get more sales, make a marketing splash or add value to a product - let us help you to plan and design your project, or let us produce it to your existing specifications.
 
