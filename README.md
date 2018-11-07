@@ -1,27 +1,32 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Creative](http://startbootstrap.com/template-overviews/creative/)
+# ![Screenshot](favicon.ico) MedDesign
 
-[Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+YOUR FAVORITE PLACE PRINT & DESIGN
 
-## Getting Started
+Want to get more sales, make a marketing splash or add value to a product - let us help you to plan and design your project, or let us produce it to your existing specifications.
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/creative/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-creative.git`
-* Fork the repo
+## At Your Service
 
-## Bugs and Issues
+> Print
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-creative/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/creative/).
+Our templates are updated regularly so they don't break.
 
-## Creator
+> Design
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+You can use this theme as is, or you can make changes!
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+> Fabrication
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+We update dependencies to keep things fresh.
 
-## Copyright and License
+> Packaging
 
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-creative/blob/gh-pages/LICENSE) license.# med-design
+You have to make your websites with love these days!
+
+## Let's Get In Touch!
+
+Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible! 
+
+```
+contact@ +91 98-18-135374 
+email@ amddesigns22@gmail.com
+```
